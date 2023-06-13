@@ -1,4 +1,2 @@
 # NumericCalculus
-Homework
-
-Cholesky decomposition
+Homework - Cholesky decomposition
